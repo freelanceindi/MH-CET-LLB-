@@ -9,6 +9,6 @@ document.querySelectorAll("[data-checkout]").forEach((button) => {
       alert("Checkout is not connected yet. Replace CHECKOUT_URL in script.js with your live payment link.");
       return;
     }
-    button.href = CHECKOUT_URL;
+    button.href = https://rzp.io/rzp/oBwo1yFI;
   });
 });
